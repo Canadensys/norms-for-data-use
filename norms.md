@@ -37,21 +37,52 @@ These are the preferred formats for citing data published through the Canadensys
 
 ### Aggregated data
 
-*Example*: Acadia University, Université de Montréal Biodiversity Centre, University of Toronto Mississauga, University of British Columbia. http://data.canadensys.net/explorer (accessed on 2012-03-21)
+#### Example
 
-*Format*: [list of data publishers]. http://data.canadensys.net/explorer (accessed on [date])
+	Acadia University, Université de Montréal Biodiversity Centre, 
+	University of Toronto Mississauga, University of British Columbia. 
+	http://data.canadensys.net/explorer 
+	(accessed on 2012-03-21)
+
+#### Format
+
+	[list of data publishers]. 
+	http://data.canadensys.net/explorer 
+	(accessed on [date])
 
 ### Single dataset
 
-*Example*: University of British Columbia Herbarium (UBC) - Vascular Plant Collection from University of British Columbia. http://dataset.canadensys.net/ubc-vascular-specimens (accessed on 2012-03-21)
+#### Example
 
-*Format*: [dataset name] from [data publisher]. [link to dataset] (accessed on [date])
+	University of British Columbia Herbarium (UBC) - Vascular Plant Collection 
+	from University of British Columbia. 
+	http://dataset.canadensys.net/ubc-vascular-specimens 
+	(accessed on 2012-03-21)
+
+#### Format
+
+	[dataset name] 
+	from [data publisher]. 
+	[link to dataset] 
+	(accessed on [date])
 
 ### Single specimen/observation record
 
-*Example*: MT00012345, Marie-Victorin Herbarium (MT) from Université de Montréal Biodiversity Centre. http://dataset.canadensys.net/mt-specimens (accessed on 2012-03-21)
+#### Example
 
-*Format*: [record id], [dataset name] from [data publisher]. [link to dataset] (accessed on [date])
+	MT00012345, 
+	Marie-Victorin Herbarium (MT) 
+	from Université de Montréal Biodiversity Centre. 
+	http://dataset.canadensys.net/mt-specimens 
+	(accessed on 2012-03-21)
+
+#### Format
+
+	[record id], 
+	[dataset name] 
+	from [data publisher]. 
+	[link to dataset] 
+	(accessed on [date])
 
 ### Where can I find the elements to create a citation?
 
