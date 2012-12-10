@@ -52,7 +52,21 @@ These are the preferred formats for citing data published through the Canadensys
 
 ### Single dataset
 
-#### Example
+#### Example with DOI
+
+	Green Plant Herbarium (TRT) 
+	from Royal Ontario Museum. 
+	doi:10.5886/g7j6gct1 
+	(accessed on 2012-03-21)
+
+#### Format
+
+	[dataset name] 
+	from [data publisher]. 
+	doi:[DOI of dataset] 
+	(accessed on [date])
+
+#### Example without DOI
 
 	University of British Columbia Herbarium (UBC) - Vascular Plant Collection 
 	from University of British Columbia. 
