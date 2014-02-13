@@ -8,7 +8,7 @@ These norms are not a legal document, but encourage (our) publishers and users t
 
 ## Fork us
 
-By hosting [these norms on Github in Markdown format](https://github.com/Canadensys/canadensys-norms/blob/master/norms.md) , we can keep track of their revision history and hope to encourage others to fork and adapt them for their own needs. We'd love to see more communities working with open data and we hope these norms can help you to build those.
+By hosting [these norms on Github in Markdown format](https://github.com/Canadensys/canadensys-norms/blob/master/norms.md), we can keep track of their revision history and hope to encourage others to fork and adapt them for their own needs. We'd love to see more communities working with open data and we hope these norms can help you to build those.
 
 ## License
 
