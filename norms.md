@@ -56,14 +56,14 @@ These are the preferred formats for citing data published through the Canadensys
 
 	Green Plant Herbarium (TRT) 
 	from Royal Ontario Museum. 
-	doi:10.5886/g7j6gct1 
+	http://dx.doi.org/10.5886/g7j6gct1 
 	(accessed on 2012-03-21)
 
 #### Format
 
 	[dataset name] 
 	from [data publisher]. 
-	doi:[DOI of dataset] 
+	http://dx.doi.org/[DOI of dataset] 
 	(accessed on [date])
 
 #### Example without DOI
