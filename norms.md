@@ -1,6 +1,6 @@
 # Norms for data use and publication
 
-The text below describes the [Canadensys](http://www.canadensys.net) norms for data publication and use. These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
+The text below describes the [VertNet](http://www.vertnet.org) norms for data publication and use. These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
 
 ## Give credit where credit is due
 
