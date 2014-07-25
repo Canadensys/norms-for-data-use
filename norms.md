@@ -25,7 +25,7 @@ Understand and respect the data licence or waiver under which the data are publi
 We care about data and we just want to make sure you do too. In order to [publish your data](http://www.vertnet.org/join/join.html) through VertNet, you should meet the following criteria:
 
 * You are associated with a Canadian collection or organization.
-* You are publishing a specimen or observation dataset, a taxonomic checklist, or metadata about one of these (i.e., one of the 3 types of datasets supported by the [IPT](http://www.canadensys.net/ipt)).
+* You are publishing a specimen or observation dataset.
 * You hold the rights to publish the data.
 * You are willing to maintain the dataset and improve its quality where possible.
 * You are willing to provide sufficient metadata, so users can learn what the dataset is about.
