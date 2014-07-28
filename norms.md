@@ -40,20 +40,23 @@ Communicate with the data publisher(s) directly. Let them know if you have comme
 * contact the data publisher directly using the contact information provided within each dataset published through VertNet via the [Publishers page](http://portal.vertnet.org/publishers) on the VertNet portal.
 * use the [feedback form](http://www.vertnet.org/feedback/contact.html) provided at the top of every VertNet web page.
 
-## Respect the Data License
+## Respect the Data License or Waiver
 
-Understand and respect the data licence or waiver under which the data are published. It is indicated in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. To help you [make greater use of the data](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0), most of our participants have dedicated their data to the [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0/). Do not remove the public domain mark or provide misleading information about the copyright status.
+Understand and respect the data licence or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. In some cases, data publishers have published using a non-standard set of terms of use.  These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
+
+To help data publishers make the best decision about how to waive or license their datasets, and to help data users understand the waivers and licenses, we have created the VertNet Guide to Copyright and Licenses for Dataset Publication[VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
+
+Do not remove the public domain mark or provide misleading information about the copyright status.
 
 ## Data publication conditions
 
-We care about data and we just want to make sure you do too. In order to [publish your data](http://www.vertnet.org/join/join.html) through VertNet, you should meet the following criteria:
+We invite any institution with biological or natural history collections to join our growing community of [data publishers](http://portal.vertnet.org/publishers).  To [publish data](http://www.vertnet.org/join/join.html) to the VertNet network you will need:
 
-* You are associated with a Canadian collection or organization.
-* You are publishing a specimen or observation dataset.
-* You hold the rights to publish the data.
-* You are willing to maintain the dataset and improve its quality where possible.
-* You are willing to provide sufficient metadata, so users can learn what the dataset is about.
-* You are publishing the data under an open license, so others can really use them. We strongly recommend publishing under [CC0](http://creativecommons.org/publicdomain/zero/1.0/) ([here is why](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0)).
+* Digitized biological or natural history data (we work with all biodiversity collections, not just verbetrates);You are associated with a Canadian collection or organization.
+* The desire to share your data with scientists, researchers, educators, and others around the world; and,
+* A willingness to maintain and improve your data over time.
+
+If you have all three, or if you have questions, please contact [VertNet’s support team](http://www.vertnet.org/feedback/contact.html) and we’ll get you and your data started on the path to publication and discovery.
 
 ## <a id="citations"></a>Preferred citations
 
@@ -63,15 +66,15 @@ These are the preferred formats for citing data published through the Canadensys
 
 #### Example
 
-	Acadia University, Université de Montréal Biodiversity Centre, 
-	University of Toronto Mississauga, University of British Columbia. 
-	http://data.canadensys.net/explorer 
-	(accessed on 2012-03-21)
+	Museum of Vertebrate Zoology, Field Museum of Natural History, 
+	University of Kansas, Field Museum of Natural History. 
+	http://vertnet.org/ 
+	(accessed on 2014-07-28)
 
 #### Format
 
 	[list of data publishers]. 
-	http://data.canadensys.net/explorer 
+	http://vertnet.org/ 
 	(accessed on [date])
 
 ### Single dataset
@@ -81,7 +84,7 @@ These are the preferred formats for citing data published through the Canadensys
 	Green Plant Herbarium (TRT) 
 	from Royal Ontario Museum. 
 	http://dx.doi.org/10.5886/g7j6gct1 
-	(accessed on 2012-03-21)
+	(accessed on 2014-07-28)
 
 #### Format
 
@@ -92,10 +95,10 @@ These are the preferred formats for citing data published through the Canadensys
 
 #### Example without DOI
 
-	University of British Columbia Herbarium (UBC) - Vascular Plant Collection 
+	University of British Columbia Beaty Biodiversity Museum (UBC) - Cowan Tetrapod Collection, Birds 
 	from University of British Columbia. 
-	http://dataset.canadensys.net/ubc-vascular-specimens 
-	(accessed on 2012-03-21)
+	http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds 
+	(accessed on 2014-07-28)
 
 #### Format
 
@@ -108,11 +111,11 @@ These are the preferred formats for citing data published through the Canadensys
 
 #### Example
 
-	MT00012345, 
-	Marie-Victorin Herbarium (MT) 
-	from Université de Montréal Biodiversity Centre. 
-	http://dataset.canadensys.net/mt-specimens 
-	(accessed on 2012-03-21)
+	105730, 
+	Carnegie Museum of Natural History Herpetology Collection 
+	from Carnegie Museum of Natural History (CM). 
+	http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps 
+	(accessed on 2014-07-28)
 
 #### Format
 
