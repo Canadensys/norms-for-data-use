@@ -58,83 +58,72 @@ We invite any institution with biological or natural history collections to join
 
 If you have all three, or if you have questions, please contact [VertNet’s support team](http://www.vertnet.org/feedback/contact.html) and we’ll get you and your data started on the path to publication and discovery.
 
-## <a id="citations"></a>Preferred citations
+## <a id="citations"></a>Preferred Citations
 
-These are the preferred formats for citing data published through the Canadensys network. If other citation practices apply, feel free to use them. We do request however to always include a link.
-
-### Aggregated data
-
-#### Example
-
-	Museum of Vertebrate Zoology, Field Museum of Natural History, 
-	University of Kansas, Field Museum of Natural History. 
-	http://vertnet.org/ 
-	(accessed on 2014-07-28)
-
-#### Format
-
-	[list of data publishers]. 
-	http://vertnet.org/ 
-	(accessed on [date])
+In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through VertNet. Square brackets denote values that must be obtained either from within a data record or from the metadata for the source dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
 
 ### Single dataset
 
-#### Example with DOI
+#### General Format
 
-	Green Plant Herbarium (TRT) 
-	from Royal Ontario Museum. 
-	http://dx.doi.org/10.5886/g7j6gct1 
-	(accessed on 2014-07-28)
-
-#### Format
-
-	[dataset name] 
-	from [data publisher]. 
-	http://dx.doi.org/[DOI of dataset] 
-	(accessed on [date])
-
-#### Example without DOI
-
-	University of British Columbia Beaty Biodiversity Museum (UBC) - Cowan Tetrapod Collection, Birds 
-	from University of British Columbia. 
-	http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds 
-	(accessed on 2014-07-28)
-
-#### Format
-
-	[dataset name] 
-	from [data publisher]. 
-	[link to dataset] 
-	(accessed on [date])
-
-### Single specimen/observation record
+	[dataset citation]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### Example
 
-	105730, 
-	Carnegie Museum of Natural History Herpetology Collection 
-	from Carnegie Museum of Natural History (CM). 
-	http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps 
-	(accessed on 2014-07-28)
+	Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
 
-#### Format
+### Aggregated data (from multiple datasets)
 
-	[record id], 
-	[dataset name] 
-	from [data publisher]. 
-	[link to dataset] 
-	(accessed on [date])
+Cite each data publisher in the aggregate using the single dataset citation format described above.
+
+#### Example
+
+	Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM). University of British Columbia. http://ipt.vertnet.org:8080/ipt/resource.do?r=ubc_bbm_ctc_birds (accessed on 2014-07-28)
+	Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
+	University of Kansas Bird Collection. University of Kansas Biodiversity Institute. http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_ornithology (accessed on 2014-07-28)
+
+### Single specimen/observation record
+
+VertNet includes the text of a record citation in the bibliographicCitation field in the record itself for all data publishers who provide this information. If the record has a value in the bibliographicCitation field, construct the full citation by appending information about the date the data were accessed. If the record does not contain a value for bibliographicCitation, use the appropriate format described below.
+
+#### If the bibliographicCitation is provided in the record:
+
+	[bibliographicCitation] (accessed on [date])
+
+#### Example
+
+	urn:catalog:CM:Herps:105730. Carnegie Museum of Natural History Herpetology Collection. Carnegie Museums. http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_herps (accessed on 2014-07-28)
+
+#### If there is no bibliographicCitation, but occurrenceID is provided in the record:
+
+	[occurrenceID]. [dataset citation]. [data publisher]. [link to dataset] (accessed on [date])
+
+#### Example
+
+	urn:catalog:CM:Herps:105730. AMNH Mammal Collection. American Museum of Natural History. http://ipt.vertnet.org:8080/ipt/resource.do?r=amnh_mammals (accessed on 2014-07-28)
+
+#### If there is no bibliographicCitation or occurrenceID provided in the record:
+
+	[catalogNumber]. [dataset citation]. [data publisher]. [link to dataset] (accessed on [date])
+
+#### Example
+
+	105730. Field Museum of Natural History (Zoology) Bird Collection. Field Museum. http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fm_birds (accessed on 2014-07-28)
 
 ### Where can I find the elements to create a citation?
 
-All the elements can be found in the [Darwin Core](http://www.canadensys.net/darwin-core) fields for each record you download:
+All the elements can be found in fields contained within downloaded records or in the metadata for the dataset from which the record originates:
 
-* [data publisher]: in [institutionCode](http://rs.tdwg.org/dwc/terms/index.htm#institutionCode) (and [rightsHolder](http://rs.tdwg.org/dwc/terms/index.htm#rightsHolder)). This is also the institution that has registered the dataset with [GBIF](http://www.gbif.org).
+* [bibliographicCitation]: in the field [bibliographicCitation](http://rs.tdwg.org/dwc/terms/#bibliographicCitation) in the record.
 
-* [dataset name]: in [datasetName](http://rs.tdwg.org/dwc/terms/index.htm#datasetName). This is also the title of the dataset in its metadata and on its repository page.
+* [occurrenceID]: in the field [occurrenceID](http://rs.tdwg.org/dwc/terms/#occurrenceID) in the record.
 
-* [link to dataset]: in [datasetID](http://rs.tdwg.org/dwc/terms/index.htm#datasetID). This link redirects to the human readable repository page of the dataset.
+* [catalogNumber]: in the field [catalogNumber](http://rs.tdwg.org/dwc/terms/#catalogNumber) in the record.
 
-* [record id]: in [catalogNumber](http://rs.tdwg.org/dwc/terms/index.htm#catalogNumber). If no catalogNumber is available, use [occurrenceID](http://rs.tdwg.org/dwc/terms/index.htm#occurrenceID).
+* [dataset citation]: This is listed as the Resource Citation (under Citations) in the dataset metadata and can also be found under Citation on the Rights tab in the record detail in the VertNet portal. If the Resource Citation is missing, use the Title of the resource in the dataset metadata, also found under Resource on the Rights tab in the record detail in the VertNet portal.
 
-*These norms may be subject to minor revisions without notice; major revisions will be announced. The norms are based on those of the [Europeana Foundation](http://www.europeana.eu/portal/pd-usage-guide.html) and [Open Data Commons](http://opendatacommons.org/norms/odc-by-sa/).*
+* [data publisher]: This is listed as the Organisation in the dataset metadata and under Institution on the Rights tab in the record detail in the VertNet portal. It is not in downloaded records.
+
+* [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
+
+*These norms may be subject to minor revisions without notice; major revisions will be announced.
