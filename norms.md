@@ -2,7 +2,7 @@
 
 This document describes the [VertNet](http://www.vertnet.org) norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered and oft discussed code of conduct that the members of the VertNet community are expected to uphold when they publish datasets to VertNet or utilize the data within the network in any way. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support current and future efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
-VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for it's efforts to develop [the norms](http://www.canadensys.net/about/norms) upon which this document is based.
+VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their efforts to develop [the norms](http://www.canadensys.net/about/norms) upon which this document is based.
 
 ## What We Believe
 
@@ -126,4 +126,4 @@ All the elements can be found in fields contained within downloaded records or i
 
 * [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
 
-*These norms may be subject to minor revisions without notice; major revisions will be announced.
+** These norms may be subject to minor revisions without notice; major revisions will be announced.
