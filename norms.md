@@ -1,36 +1,36 @@
-# Norms for Data Use and publication
+# Norms for Data Use and Publication
 
-This document describes the [VertNet](http://www.vertnet.org) norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered and oft discussed code of conduct that the members of the VertNet community are expected to uphold when they publish datasets to VertNet or utilize the data within the network in any way. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support current and future efforts to make biodiversity data as complete, discoverable, and accessible as possible.
+This document describes the [VertNet](http://www.vertnet.org) norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered code of conduct that anyone who publishes data to or uses data downloaded from VertNet are expected to uphold. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
 VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their efforts to develop [the norms](http://www.canadensys.net/about/norms) upon which this document is based.
 
 ## What We Believe
 
-* Biodiversity data should be as complete, discoverable, and accessible as possible via portals, public URLs, and other means.
-* Biodiversity data should be standardized so it can be aggregated, shared, and used as easily as possible.
+* Biodiversity data should be as complete, discoverable, and accessible as possible.
+* Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
 * Factual data (see, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected) in the VertNet Guide to Copyright and Licenses for Dataset Publication) cannot be protected by copyright and should be committed to the Public Domain.
-* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. Ideally, we would like to see all datasets using the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver.
+* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets to utilize a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
 * Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
-* This process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
-* All data publishers should get the credit they deserve when the data they curate are used by others for broader benefit.
+* The licensing and waiver process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
+* All data publishers should get the credit they deserve when the data they curate are used by others.
 * It is worth the time and effort to achieve these goals to the greatest extent possible.
 
 # The Norms
 
 ## Give Credit Where Credit is Due
 
-As is common practice in scientific research, cite the data you are using. VertNet data publishers have invested an extensive amount of time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
+As is common practice in scientific research, cite the resources you are using. VertNet data publishers have invested an considerable time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
 
 ## Be Responsible
 
-Use the data responsibly. Data are published to VertNet and other biodiversity portals to allow you and everyone else to better study and understand the world in which we live. It is your responsibility to use these data for the benefit of our collective health, knowledge, and self-improvement. Avoid using these data in any way that is unlawful, harmful, or misleading. Please understand that these data are subject to change, error, and sampling bias. When giving credit where credit is due, protect the reputation of the data publisher and indicate any changes you may have made to the data clearly.
+Use the data responsibly. Data are published to VertNet and other biodiversity portals to allow you and everyone else to better study and understand the world in which we live. It is your responsibility to use these data for the benefit of our collective health, knowledge, and self-improvement. Avoid using these data in any way that is unlawful, harmful, or misleading. Please understand that these data are subject to change, error, and bias. When giving credit where credit is due, protect the reputation of the data publisher and indicate clearly any changes you may have made to the data.
 
 ## Share Knowledge
 
-Let VertNet know if — and how — you have used data from the network. It helps:
+Let VertNet data publishers and the broader community know if — and how — you have used data from the network. It helps:
 * VertNet to understand value of this project to you and the community and to create better tools and services for your use.
 * data publishers to showcase their efforts and encourages them to continue to improve data quality and maintenance of collections.
-* you and your work reach a wider audience through an expanded presence (yes, we publicize and celebrate the work that people do with VertNet data).
+* you and your work reach a wider audience through an expanded presence (yes, we publicize and celebrate the work that people do with data published through VertNet).
 * everyone - data publishers, bioinformatics projects, and researchers to raise the money needed to keep the data, products, services, and research alive.
 
 You can [contact us](http://www.vertnet.org/feedback/contact.html) or share your work with any member of the [VertNet team](http://www.vertnet.org/about/team.html) directly.
@@ -42,9 +42,9 @@ Communicate with the data publisher(s) directly. Let them know if you have comme
 
 ## Respect the Data License or Waiver
 
-Understand and respect the data license or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. In some cases, data publishers have published using a non-standard set of terms of use.  These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
+Understand and respect the data license or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. In some cases, data publishers have published using non-standard terms of use.  These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
 
-To help data publishers make the best decision about how to waive or license their datasets, and to help data users understand the waivers and licenses, we have created the VertNet Guide to Copyright and Licenses for Dataset Publication[VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
+To help data publishers make the best decision about how to waive rights or license their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Do not remove the public domain mark or provide misleading information about the copyright status.
 
@@ -60,13 +60,13 @@ If you have all three, or if you have questions, please contact [VertNet’s sup
 
 ## <a id="citations"></a>Preferred Citations
 
-In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through VertNet. Square brackets denote values that must be obtained either from within a data record or from the metadata for the source dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
+In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through VertNet. Square brackets denote values that must be obtained either from records within a dataset or from the description of the dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
 
 ### Single dataset
 
 #### General Format
 
-	[dataset citation]. [data publisher]. [link to dataset] (accessed on [date])
+	[dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### Example
 
@@ -96,7 +96,7 @@ VertNet includes the text of a record citation in the bibliographicCitation fiel
 
 #### If there is no bibliographicCitation, but occurrenceID is provided in the record:
 
-	[occurrenceID]. [dataset citation]. [data publisher]. [link to dataset] (accessed on [date])
+	[occurrenceID]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### Example
 
@@ -104,7 +104,7 @@ VertNet includes the text of a record citation in the bibliographicCitation fiel
 
 #### If there is no bibliographicCitation or occurrenceID provided in the record:
 
-	[catalogNumber]. [dataset citation]. [data publisher]. [link to dataset] (accessed on [date])
+	[catalogNumber]. [dataset name]. [data publisher]. [link to dataset] (accessed on [date])
 
 #### Example
 
@@ -112,7 +112,7 @@ VertNet includes the text of a record citation in the bibliographicCitation fiel
 
 ### Where can I find the elements to create a citation?
 
-All the elements can be found in fields contained within downloaded records or in the metadata for the dataset from which the record originates:
+All the elements can be found in fields contained within downloaded records or in the description of the dataset (i.e., the metadata) from which the record originates:
 
 * [bibliographicCitation]: in the field [bibliographicCitation](http://rs.tdwg.org/dwc/terms/#bibliographicCitation) in the record.
 
@@ -120,10 +120,10 @@ All the elements can be found in fields contained within downloaded records or i
 
 * [catalogNumber]: in the field [catalogNumber](http://rs.tdwg.org/dwc/terms/#catalogNumber) in the record.
 
-* [dataset citation]: This is listed as the Resource Citation (under Citations) in the dataset metadata and can also be found under Citation on the Rights tab in the record detail in the VertNet portal. If the Resource Citation is missing, use the Title of the resource in the dataset metadata, also found under Resource on the Rights tab in the record detail in the VertNet portal.
+* [dataset name]: This is listed as the Resource Citation (under Citations) in the dataset metadata (published as an EML file in a Darwin Core archive) and can also be found under Citation on the Rights tab in the record detail in the VertNet portal. If the Resource Citation is missing, use the Title of the resource in the dataset metadata, also found under Resource on the Rights tab in the record detail in the VertNet portal.
 
-* [data publisher]: This is listed as the Organisation in the dataset metadata and under Institution on the Rights tab in the record detail in the VertNet portal. It is not in downloaded records.
+* [data publisher]: This is listed as the Organisation in the dataset metadata and under Organisation on the Rights tab in the record detail in the VertNet portal. It is not in downloaded records.
 
 * [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
 
-** These norms may be subject to minor revisions without notice; major revisions will be announced.
+** These norms may be subject to minor revisions without notice; major revisions will be announced on the the VertNet [web site](http://www.vertnet.org/), [data portal](http://www.vertnet.org/search), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg), [Facebook](https://www.facebook.com/VertNet), and [Google Plus](https://plus.google.com/106668930991835907114/posts)).
