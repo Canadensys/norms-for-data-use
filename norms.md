@@ -8,10 +8,10 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 
 * Biodiversity data should be as complete, discoverable, and accessible as possible.
 * Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
-* Factual data (see, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected) in the VertNet Guide to Copyright and Licenses for Dataset Publication) cannot be protected by copyright and should be committed to the Public Domain.
-* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets to utilize a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
+* Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication) cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected).
+* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets be published under the designation of the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
 * Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
-* The licensing and waiver process should be as simple as possible for both data publishers and for users (results may vary from collection to collection).
+* The licensing and waiver process should be as simple as possible for data publishers and for users (results may vary from collection to collection).
 * All data publishers should get the credit they deserve when the data they curate are used by others.
 * It is worth the time and effort to achieve these goals to the greatest extent possible.
 
@@ -19,7 +19,7 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 
 ## Give Credit Where Credit is Due
 
-As is common practice in scientific research, cite the resources you are using. VertNet data publishers have invested an considerable time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
+As is common practice in scientific research, cite the resources you are using. VertNet data publishers have invested considerable time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
 
 ## Be Responsible
 
@@ -27,33 +27,33 @@ Use the data responsibly. Data are published to VertNet and other biodiversity p
 
 ## Share Knowledge
 
-Let VertNet data publishers and the broader community know if — and how — you have used data from the network. It helps:
+Let VertNet data publishers and the broader community know if — and how — you have used data from the network. Sharing helps:
 * VertNet to understand value of this project to you and the community and to create better tools and services for your use.
-* data publishers to showcase their efforts and encourages them to continue to improve data quality and maintenance of collections.
-* you and your work reach a wider audience through an expanded presence (yes, we publicize and celebrate the work that people do with data published through VertNet).
-* everyone - data publishers, bioinformatics projects, and researchers to raise the money needed to keep the data, products, services, and research alive.
+* Data publishers to showcase their efforts and encourages them to continue to improve data quality and maintenance of collections.
+* You and your work reach a wider audience through an expanded presence. (Yes, we publicize and celebrate the work that people do with data published through VertNet.)
+* Everyone - data publishers, bioinformatics projects, and researchers - to raise the money needed to keep the data, products, services, and research alive.
 
 You can [contact us](http://www.vertnet.org/feedback/contact.html) or share your work with any member of the [VertNet team](http://www.vertnet.org/about/team.html) directly.
 
 Communicate with the data publisher(s) directly. Let them know if you have comments or questions, notice errors, or want more information about the data they publish. We've provided you with three ways to start a conversation:
-* post an issue directly from the VertNet data portal. It's simple and we've posted instructions on [our blog](http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at).
-* contact the data publisher directly using the contact information provided within each dataset published through VertNet via the [Publishers page](http://portal.vertnet.org/publishers) on the VertNet portal.
-* use the [feedback form](http://www.vertnet.org/feedback/contact.html) provided at the top of every VertNet web page.
+* Post an issue directly from the VertNet data portal. It's simple and we've posted instructions on [our blog](http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at).
+* Contact the data publisher directly using the contact information provided within each dataset published through VertNet via the [Publishers page](http://portal.vertnet.org/publishers) on the VertNet portal.
+* Use the [feedback form](http://www.vertnet.org/feedback/contact.html) provided at the top of every VertNet web page.
 
 ## Respect the Data License or Waiver
 
 Understand and respect the data license or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. In some cases, data publishers have published using non-standard terms of use.  These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
 
-To help data publishers make the best decision about how to waive rights or license their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
+To help data publishers make the best decision about how to license or waive rights to their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Do not remove the public domain mark or provide misleading information about the copyright status.
 
 ## Data Publication Conditions
 
-We invite any institution with biological or natural history collections (not just vertebrates) to join our growing community of [data publishers](http://portal.vertnet.org/publishers).  To [publish data](http://www.vertnet.org/join/join.html) to the VertNet network you will need:
+We invite any institution with biological or natural history collections (not just vertebrate collections) to join our growing community of [data publishers](http://portal.vertnet.org/publishers).  To [publish data](http://www.vertnet.org/join/join.html) to the VertNet network you will need:
 
-* Digitized biological or natural history data (we work with all biodiversity collections, not just vertebrates);
-* The desire to share your data with scientists, researchers, educators, and others around the world; and,
+* Digitized biological or natural history data.
+* The desire to share your data with scientists, researchers, educators, and others around the world.
 * A willingness to maintain and improve your data over time.
 
 If you have all three, or if you have questions, please contact [VertNet’s support team](http://www.vertnet.org/feedback/contact.html) and we’ll get you and your data started on the path to publication and discovery.
@@ -126,4 +126,4 @@ All the elements can be found in fields contained within downloaded records or i
 
 * [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
 
-** These norms may be subject to minor revisions without notice; major revisions will be announced on the the VertNet [web site](http://www.vertnet.org/), [data portal](http://www.vertnet.org/search), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg), [Facebook](https://www.facebook.com/VertNet), and [Google Plus](https://plus.google.com/106668930991835907114/posts)).
+** These norms may be subject to minor revisions without notice; major revisions will be announced on the VertNet [web site](http://www.vertnet.org/), [data portal](http://www.vertnet.org/search), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg), [Facebook](https://www.facebook.com/VertNet), and [Google Plus](https://plus.google.com/106668930991835907114/posts)).
