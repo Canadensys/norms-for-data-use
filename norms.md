@@ -1,35 +1,52 @@
-# Norms for data use and publication
+# Norms for Data Use and Publication
 
-The text below describes the [Canadensys](http://www.canadensys.net) norms for data publication and use. These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
+The text below describes the [Canadensys](http://www.canadensys.net) norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered code of conduct that anyone who publishes data to or uses data downloaded from Canadensys are expected to uphold. When you adopt these norms, you will both model a much needed set of ethical behaviours and help us to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
-## Give credit where credit is due
+## What We Believe
 
-As is common practice in scientific research, cite the data you are using. Our participants have invested a lot of time and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using, and they deserve credit for their work. [You can find the preferred formats for citation at the end of this document](#citations).
+* Biodiversity data should be as complete, discoverable, and accessible as possible.
+* Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
+* Factual data cannot be protected by copyright and should be committed to the Public Domain.
+* Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets to be published under the designation of the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
+* Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
+* The licensing and waiver process should be as simple as possible for data publishers and for users (results may vary from collection to collection).
+* All data publishers should get the credit they deserve when the data they curate are used by others.
+* It is worth the time and effort to achieve these goals to the greatest extent possible.
 
-## Be responsible
+## Give Credit Where Credit is Due
 
-Use the data responsibly. The data are published to allow anyone to better study and understand the world around us, so please do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.
+As is common practice in scientific research, cite the data you are using. Canadensys data publishers have invested a lot of time and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats at the end of this document.
 
-## Share knowledge
+## Be Responsible
 
-Let us know if you have used the data. It helps our participants to showcase their efforts and it helps you reach a wider audience. You can [contact us](http://www.canadensys.net/contact) or share your work via [our public forum](http://www.canadensys.net/forum).
+Use the data responsibly. The data are published to Canadensys and other biodiversity portals to allow you and everyone else to better study and understand the world in which we live. It is your responsibility to use these data for the benefit of our collective health, knowledge, and self-improvement. Avoid using these data in any way that is unlawful, harmful or misleading. Please understand that these data are subject to change, errors and bias. When giving credit where credit is due, protect the reputation of the data publisher and indicate clearly any changes you may have made to the data.
 
-Inform the data publisher(s) if you have comments about the data, notice errors, or want more information. Their contact details are included in the dataset metadata and on [our repository](http://data.canadensys.net/ipt).
+## Share Knowledge
 
-## Respect the data license
+Let Canadensys data publishers and the broader community know if — and how — you have used data from the network. Sharing helps:
+* Canadensys to understand value of this project to you and the community and to create better tools and services for your use.
+* Data publishers to showcase their efforts and encourages them to continue to improve data quality and maintenance of collections.
+* You and your work reach a wider audience through an expanded presence.
+* Everyone - data publishers, biodiversity informatics projects, and researchers - to raise the money needed to keep the data, products, services, and research alive.
 
-Understand and respect the data licence or waiver under which the data are published. It is indicated in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. To help you [make greater use of the data](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0), most of our participants have dedicated their data to the [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0/). Do not remove the public domain mark or provide misleading information about the copyright status.
+You can [contact us](http://www.canadensys.net/contact) or share your work via [our public forum](http://www.canadensys.net/forum).
 
-## Data publication conditions
+Communicate with the data publisher(s) directly. Let them know if you have comments or questions, notice errors, or want more information about the data they publish. Their contact details are included in the dataset metadata and on [our repository](http://data.canadensys.net/ipt).
 
-We care about data and we just want to make sure you do too. In order to [publish your data](http://www.canadensys.net/publication) through the Canadensys network, you should meet the following criteria:
+### Respect the Data License or Waiver
+
+Understand and respect the data licence or waiver under which the data are published. Whenever possible, Canadensys places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. To help you [make greater use of the data](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0), most of our data publishers have dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/). Do not remove the public domain mark or provide misleading information about the copyright status.
+
+## Data Publication Conditions
+
+In order to [publish your data](http://www.canadensys.net/publication) through the Canadensys network, you should meet the following criteria:
 
 * You are associated with a Canadian collection or organization.
 * You are publishing a specimen or observation dataset, a taxonomic checklist, or metadata about one of these (i.e., one of the 3 types of datasets supported by the [IPT](http://www.canadensys.net/ipt)).
 * You hold the rights to publish the data.
 * You are willing to maintain the dataset and improve its quality where possible.
 * You are willing to provide sufficient metadata, so users can learn what the dataset is about.
-* You are publishing the data under an open license, so others can really use them. We strongly recommend publishing under [CC0](http://creativecommons.org/publicdomain/zero/1.0/) ([here is why](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0)).
+* You are publishing the data under an open license, so others can really use them. We strongly recommend dedicating to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/) and [here is why](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0).
 
 ## <a id="citations"></a>Preferred citations
 
